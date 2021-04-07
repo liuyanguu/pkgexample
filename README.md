@@ -23,3 +23,4 @@ library(testpkg)
 ## basic example code
 ```
 
+"# pkgexample" 
